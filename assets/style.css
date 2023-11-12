@@ -1,0 +1,18 @@
+.todo-application{
+    text-align: center;
+}
+
+.todo-application h2{
+    font-size: 50px;
+    color: aqua;
+}
+
+.todo-space{
+
+    width: 500px;
+    font-size: 25px;
+}
+
+ul li{
+    font-size: 25px;
+}
